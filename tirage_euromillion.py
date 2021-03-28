@@ -34,3 +34,4 @@ tirage_etoile.sort()
 print("Tirage principale : ",tirage_principal)
 print("Tirage etoile :", tirage_etoile)
 
+#ajoute du texte
